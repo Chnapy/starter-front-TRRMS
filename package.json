@@ -59,7 +59,7 @@
   },
   "engineStrict": true,
   "engines": {
-    "node": ">=12"
+    "node": ">=10"
   },
   "jest": {
     "clearMocks": true,
